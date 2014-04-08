@@ -4,7 +4,7 @@
  * @api private
  */
 
-var Emitter = require('component-emitter');
+// commented out by npm-component: var Emitter = require('component-emitter');
 var emit = Emitter.prototype.emit;
 
 
